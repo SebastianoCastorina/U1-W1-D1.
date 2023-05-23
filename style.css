@@ -1,0 +1,7 @@
+tr:hover {
+  background-color: #ebbb63;
+}
+td {
+  border-bottom: 1px solid #000000;
+  border-top: 1px solid #000000;
+}
